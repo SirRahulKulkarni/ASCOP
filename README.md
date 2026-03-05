@@ -1,5 +1,7 @@
 # ASCOP — Auto Scene Cleaner Optimizer
 
+![ASCOP Banner](docs/images/github_banner.png)
+
 ![Blender](https://img.shields.io/badge/Blender-5.0%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -152,18 +154,6 @@ Scene becomes **cleaner and lighter**.
 
 ---
 
-## Cleanup Example
-
-![Cleanup Example](docs/images/cleanup_example.png)
-
----
-
-## Decimation Example
-
-![Decimate Example](docs/images/decimate_example.png)
-
----
-
 # Folder Structure
 
 ```
@@ -176,8 +166,6 @@ ASCOP/
 └── docs/
     └── images/
         ├── ascop_panel.png
-        ├── cleanup_example.png
-        └── decimate_example.png
 ```
 
 ---
